@@ -1,0 +1,8 @@
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\obj\Debug\netcoreapp3.1\BluePrintXmlLibrary.AssemblyInfoInputs.cache
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\obj\Debug\netcoreapp3.1\BluePrintXmlLibrary.AssemblyInfo.cs
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\obj\Debug\netcoreapp3.1\BluePrintXmlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\bin\Debug\netcoreapp3.1\BluePrintXmlLibrary.deps.json
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\bin\Debug\netcoreapp3.1\BluePrintXmlLibrary.dll
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\bin\Debug\netcoreapp3.1\BluePrintXmlLibrary.pdb
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\obj\Debug\netcoreapp3.1\BluePrintXmlLibrary.dll
+C:\Users\colin\source\repos\BluePrintTest\BluePrintXmlLibrary\obj\Debug\netcoreapp3.1\BluePrintXmlLibrary.pdb
