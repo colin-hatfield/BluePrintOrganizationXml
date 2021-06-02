@@ -37,7 +37,7 @@ Completed the rough functionality....  Now to clean it up / make it sustainable.
 *** After speaking with a friend who is also a fellow software developer, describing the ask and how I've written it up, it
 sounds like I should be making this thing all enterprisey to showcase how I am able to "model the problem" and observe best practices.
 
-1.0 Repective
+1.0 Retrospective
 --------------------------------------------------------------------------------------------------------------------------
 so re-visit my solution, lets enterprisey this thing up.
 
