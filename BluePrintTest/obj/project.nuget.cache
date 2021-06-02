@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RuX7EadGuJ61d+flUce/aG6WFu+28Z2fzKgmKdIkGjkU/nuasH+ae6qPDy2bFeiUh1k06auraRXG7bxq5T8dwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\colin\\source\\repos\\BluePrintTest\\BluePrintTest\\BluePrintXmlConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\colin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
